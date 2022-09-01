@@ -1,3 +1,3 @@
 # RockPaperScissors
-Rock Paper Scissors Java Only
+Rock Paper Scissors basic Java Only
 The game runs through the console.
